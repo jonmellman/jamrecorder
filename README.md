@@ -13,9 +13,11 @@ Alexa: "Okay, I'm now recording. I named your song: Fat Sneeze"
 
 Me: 🎶🎸🥁🎷🎶🎸🥁🎷
 
-"Okay Alexa, ask JamRecorder to stop recording"
+Me: "Okay Alexa, ask JamRecorder to stop recording"
 
-"Okay, I stopped recording and am uploading your song to Dropbox."
+Alexa: "Okay, I stopped recording and am uploading your song to Dropbox."
+
+Me: 🤙
 
 ## Technical Details
 JamRecorder is comprised of three independent parts that each live in their own directory:
