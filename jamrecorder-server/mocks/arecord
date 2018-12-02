@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+if [ $1 = "--list-devices" ]; then
+	echo "**** List of CAPTURE Hardware Devices ****"
+	echo "card 1: Microphone [Yeti Stereo Microphone], device 0: USB Audio [USB Audio]"
+	echo "  Subdevices: 1/1"
+	echo "  Subdevice #0: subdevice #0"
+else
+	DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+	# Recording
+	sleep 300
+	echo `cat $DIR/audio.raw`
+fi
+
+exit 0

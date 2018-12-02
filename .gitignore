@@ -1,0 +1,7 @@
+alexa/node_modules
+
+iot-communicator/node_modules
+
+jamrecorder-server/*.pyc
+jamrecorder-server/**/__pycache__/**
+**/.git.bak/**
