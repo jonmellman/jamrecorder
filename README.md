@@ -1,5 +1,7 @@
 JamRecorder is an Alexa skill for hands-free audio recording and sharing. It records audio to a local Raspberry Pi device and automatically uploads the result to DropBox. I deployed it in a music rehearsal room that I share with friends, and it makes our lives easier with these features:
 
+![JamRecorder image](/image.png)
+
 ## Features:
 * Hands-free recording ("Alexa, ask JamRecorder to start recording"). This is important since I'm often tethered to cables and my hands are occupied.
 * High-quality recordings using an external USB microphone. This lets me
