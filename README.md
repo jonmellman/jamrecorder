@@ -8,9 +8,13 @@ JamRecorder is an Alexa skill that records audio on a local Raspberry Pi device 
 
 ## Usage Example
 Me: "Alexa, ask JamRecorder to start recording"
+
 Alexa: "Okay, I'm now recording. I named your song: Fat Sneeze"
+
 Me: 🎶🎸🥁🎷🎶🎸🥁🎷
+
 "Okay Alexa, ask JamRecorder to stop recording"
+
 "Okay, I stopped recording and am uploading your song to Dropbox."
 
 ## Technical Details
