@@ -8,7 +8,7 @@ I deployed it in a music rehearsal room that I share with friends, and it makes 
 
 ## Features:
 * Hands-free recording ("Alexa, ask JamRecorder to start recording"). This is important since I'm often tethered to cables and my hands are occupied.
-* High-quality recordings using an external USB microphone. This lets me
+* High-quality recordings using an external USB microphone.
 * Recordings are automatically uploaded to Dropbox for easy sharing. I printed out a QR code that links to the Dropbox folder and taped it to the wall of our rehearsal room, so it's easy for anyone to find their recordings.
 * Fun auto-generated song names.
 
